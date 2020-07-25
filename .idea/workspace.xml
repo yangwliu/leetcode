@@ -1,115 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77a43ae5-f3ea-4828-9579-983d3869fea4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="77a43ae5-f3ea-4828-9579-983d3869fea4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
-  </component>
-  <component name="ProjectId" id="1fBdqoGtVBrJK3cZqrHlt5PHJSw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="77a43ae5-f3ea-4828-9579-983d3869fea4" name="Default Changelist" comment="" />
-      <created>1595695612892</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1595695612892</updated>
-      <workItem from="1595695614904" duration="128000" />
-    </task>
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add implements for largest sub string." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add implements for largest sub string." />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="325" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595695172144">
-      <screen x="43" y="23" width="1637" height="1027" />
-    </state>
-    <state x="325" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/43.23.1637.1027@43.23.1637.1027" timestamp="1595695172144" />
-    <state x="444" y="136" key="CommitChangelistDialog2" timestamp="1595695155427">
-      <screen x="43" y="23" width="1637" height="1027" />
-    </state>
-    <state x="444" y="136" key="CommitChangelistDialog2/43.23.1637.1027@43.23.1637.1027" timestamp="1595695155427" />
-    <state width="1358" height="206" key="GridCell.Tab.0.bottom" timestamp="1595695583558">
+    <state x="100" y="100" width="1480" height="850" key="DiffContextDialog" timestamp="1595696036823">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1358" height="206" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1595695583558" />
-    <state width="1358" height="206" key="GridCell.Tab.0.bottom/43.23.1637.1027@43.23.1637.1027" timestamp="1595695245612" />
-    <state width="1358" height="206" key="GridCell.Tab.0.center" timestamp="1595695583558">
+    <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1595696036823" />
+    <state x="428" y="275" key="IDE.errors.dialog" timestamp="1595696186380">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1358" height="206" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1595695583558" />
-    <state width="1358" height="206" key="GridCell.Tab.0.center/43.23.1637.1027@43.23.1637.1027" timestamp="1595695245611" />
-    <state width="1358" height="206" key="GridCell.Tab.0.left" timestamp="1595695583557">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1358" height="206" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1595695583557" />
-    <state width="1358" height="206" key="GridCell.Tab.0.left/43.23.1637.1027@43.23.1637.1027" timestamp="1595695245611" />
-    <state width="1358" height="206" key="GridCell.Tab.0.right" timestamp="1595695583558">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1358" height="206" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1595695583558" />
-    <state width="1358" height="206" key="GridCell.Tab.0.right/43.23.1637.1027@43.23.1637.1027" timestamp="1595695245612" />
-    <state width="1358" height="206" key="GridCell.Tab.1.bottom" timestamp="1595695583560">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1358" height="206" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1595695583560" />
-    <state width="1358" height="206" key="GridCell.Tab.1.bottom/43.23.1637.1027@43.23.1637.1027" timestamp="1595695245613" />
-    <state width="1358" height="206" key="GridCell.Tab.1.center" timestamp="1595695583559">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1358" height="206" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1595695583559" />
-    <state width="1358" height="206" key="GridCell.Tab.1.center/43.23.1637.1027@43.23.1637.1027" timestamp="1595695245612" />
-    <state width="1358" height="206" key="GridCell.Tab.1.left" timestamp="1595695583559">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1358" height="206" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1595695583559" />
-    <state width="1358" height="206" key="GridCell.Tab.1.left/43.23.1637.1027@43.23.1637.1027" timestamp="1595695245612" />
-    <state width="1358" height="206" key="GridCell.Tab.1.right" timestamp="1595695583560">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1358" height="206" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1595695583560" />
-    <state width="1358" height="206" key="GridCell.Tab.1.right/43.23.1637.1027@43.23.1637.1027" timestamp="1595695245612" />
-    <state x="328" y="106" key="SettingsEditor" timestamp="1595695748948">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="328" y="106" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1595695748948" />
+    <state x="428" y="275" key="IDE.errors.dialog/0.0.1680.1050@0.0.1680.1050" timestamp="1595696186380" />
   </component>
 </project>

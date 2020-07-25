@@ -1,6 +1,11 @@
 ## idea
+<<<<<<< HEAD
 .idea
 
+=======
+.idea*
+out/**
+>>>>>>> a417fc276adce6f9dc7c909ff5f1b4964d1f340b
 ##
 *.iml
 
